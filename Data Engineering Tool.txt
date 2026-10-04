@@ -1,0 +1,72 @@
+Data Engineering Tool
+
+
+Cloud
+AWS
+GCP
+AZURE
+
+DB/DW tools
+Snowflake --> PLsqql dev etl rtest, PROD support
+Databricks ---> pyhton , pysrak
+Redshift------
+
+
+To create the ETL pipeline
+Airflow ----DAG 
+DBT ----- ETL./ELT toooll===  ELT PROCESS--------
+
+
+DE Query to be flowed pupose
+
+1) to share the dta with powerbi we will share with Matrialised view/view
+2) Tasks -> cron to be scheduled
+3) SP ----> 
+
+
+tables, views, SP
+
+
+temp table   
+normal 
+ICE table
+
+
+views///
+
+
+
+DB--Snowflake
+Tables creation
+View creations
+SP creations
+
+Tasks
+Timetravel
+Stream
+
+
+AWS/
+s3 bucket--->stage---> target
+
+
+DBT---> Data Build  tool 
+ELTprocess///
+
+
+
+1milllion 
+---- 0.5million 
+
+a b c 
+
+1
+1
+
+Fact/Dimension -----c
+
+
+
+
+
+
